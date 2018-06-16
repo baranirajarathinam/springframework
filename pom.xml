@@ -17,6 +17,10 @@
   		<artifactId>spring-context</artifactId>
   		<version>${spring.version}</version>
   	</dependency>
-  </dependencies>
-  
+  	<dependency>
+  		<groupId>cglib</groupId>
+  		<artifactId>cglib</artifactId>
+  		<version>3.0</version>
+  	</dependency>
+  </dependencies>  
 </project>
